@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "WebGPU F1 desk-toy racing demo on Resuma (kit / drive / studio) — inspired by Patrick Heintzmann's Formula showcase, original implementation."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/GolfredoPerezFernandez/resuma-formula"
+repository = "https://github.com/GoldevLab/resuma-formula"
 
 [dependencies]
 resuma = { path = "../resuma/crates/resuma", version = "1.2.15" }
